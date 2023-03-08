@@ -23,4 +23,4 @@ For this lab, we will be using the same dataset we used in the previous labs. We
     Make any changes you feel are necessary.
 4. Plot time variable. Can you extract something from it?
 5. The time variable can be useful. You shoud transform its data into a more useful form.
-  Hint: Day, week, and month as integers might be useful.
+    Hint: Day, week, and month as integers might be useful.

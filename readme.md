@@ -22,4 +22,4 @@ For this lab, we will be using the same dataset we used in the previous labs. We
 3. There might be some columns that seem to be redundant, check their values to be sure. What should we do with them?  
     Make any changes you feel are necessary.
 4. Plot time variable. Can you extract something from it?
-
+5. The time variable can be useful. You shoud transform its data into a more useful one. Hint: Day, week, and month as integers might be useful.
